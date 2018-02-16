@@ -1,6 +1,6 @@
 # Langoliers
 
-A python script to manage your Twitter posts and favorites.
+A python script to delete your Twitter posts and favorites.
 
 by Max Clark [@maxclark](https://twitter.com/maxclark)
 
