@@ -7,7 +7,7 @@ by Max Clark [@maxclark](https://twitter.com/maxclark)
 ## Usage
 
 ```
-$ pip install -r requirements.txt
+$ pipenv install
 ```
 
 ## Meta
